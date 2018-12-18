@@ -1444,9 +1444,9 @@
                       </option>
                       <option name="index" value="10" />
                       <option name="name" value="String formatting" />
-                      <option name="status" value="Unchecked" />
+                      <option name="status" value="Solved" />
                       <option name="stepId" value="186029" />
-                      <option name="stepikChangeStatus" value="Up to date" />
+                      <option name="stepikChangeStatus" value="Info and Content changed" />
                       <option name="taskFiles">
                         <map>
                           <entry key="string_formatting.py">
@@ -1468,13 +1468,13 @@
                                         </MyInitialState>
                                       </option>
                                       <option name="initializedFromDependency" value="false" />
-                                      <option name="length" value="14" />
-                                      <option name="offset" value="132" />
+                                      <option name="length" value="2" />
+                                      <option name="offset" value="142" />
                                       <option name="placeholderDependency" />
                                       <option name="placeholderText" value="special symbol" />
                                       <option name="possibleAnswer" value="%d" />
-                                      <option name="selected" value="false" />
-                                      <option name="status" value="Unchecked" />
+                                      <option name="selected" value="true" />
+                                      <option name="status" value="Solved" />
                                       <option name="studentAnswer" />
                                       <option name="useLength" value="true" />
                                     </AnswerPlaceholder>
@@ -1493,18 +1493,18 @@
                                       </option>
                                       <option name="initializedFromDependency" value="false" />
                                       <option name="length" value="5" />
-                                      <option name="offset" value="160" />
+                                      <option name="offset" value="158" />
                                       <option name="placeholderDependency" />
                                       <option name="placeholderText" value="years" />
                                       <option name="possibleAnswer" value="17" />
                                       <option name="selected" value="false" />
-                                      <option name="status" value="Unchecked" />
+                                      <option name="status" value="Solved" />
                                       <option name="studentAnswer" />
                                       <option name="useLength" value="true" />
                                     </AnswerPlaceholder>
                                   </list>
                                 </option>
-                                <option name="highlightErrors" value="false" />
+                                <option name="highlightErrors" value="true" />
                                 <option name="name" value="string_formatting.py" />
                                 <option name="text" value="name = &quot;John&quot;&#10;print(&quot;Hello, PyCharm! My name is %s!&quot; % name)     # Note: %s is inside the string, % is after the string&#10;&#10;print(&quot;I'm special symbol years old&quot; % years)&#10;" />
                                 <option name="trackChanges" value="true" />
@@ -1551,9 +1551,9 @@
                       </option>
                       <option name="index" value="1" />
                       <option name="name" value="Lists introduction" />
-                      <option name="status" value="Unchecked" />
+                      <option name="status" value="Solved" />
                       <option name="stepId" value="186030" />
-                      <option name="stepikChangeStatus" value="Up to date" />
+                      <option name="stepikChangeStatus" value="Info and Content changed" />
                       <option name="taskFiles">
                         <map>
                           <entry key="lists.py">
@@ -1575,19 +1575,19 @@
                                         </MyInitialState>
                                       </option>
                                       <option name="initializedFromDependency" value="false" />
-                                      <option name="length" value="5" />
+                                      <option name="length" value="12" />
                                       <option name="offset" value="70" />
                                       <option name="placeholderDependency" />
                                       <option name="placeholderText" value="slice" />
                                       <option name="possibleAnswer" value="squares[1:4]" />
-                                      <option name="selected" value="false" />
-                                      <option name="status" value="Unchecked" />
+                                      <option name="selected" value="true" />
+                                      <option name="status" value="Solved" />
                                       <option name="studentAnswer" />
                                       <option name="useLength" value="true" />
                                     </AnswerPlaceholder>
                                   </list>
                                 </option>
-                                <option name="highlightErrors" value="false" />
+                                <option name="highlightErrors" value="true" />
                                 <option name="name" value="lists.py" />
                                 <option name="text" value="squares = [1, 4, 9, 16, 25]   # create new list&#10;print(squares)&#10;&#10;print(slice)&#10;" />
                                 <option name="trackChanges" value="true" />
