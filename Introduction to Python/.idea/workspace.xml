@@ -2,13 +2,27 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9645ee0a-3946-4d5f-b0a7-32c602824ed8" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/Introduction to Python.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Introduction to Python.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/study_project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/study_project.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data structures/Lists introduction/lists.py" beforeDir="false" afterPath="$PROJECT_DIR$/Data structures/Lists introduction/lists.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Strings/String formatting/string_formatting.py" beforeDir="false" afterPath="$PROJECT_DIR$/Strings/String formatting/string_formatting.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Classes and objects/Definition/class_definition.py" beforeDir="false" afterPath="$PROJECT_DIR$/Classes and objects/Definition/class_definition.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Classes and objects/Self explanation/self_parameter.py" beforeDir="false" afterPath="$PROJECT_DIR$/Classes and objects/Self explanation/self_parameter.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Classes and objects/Special __init__ method/init_method.py" beforeDir="false" afterPath="$PROJECT_DIR$/Classes and objects/Special __init__ method/init_method.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Classes and objects/Variable access (1)/access_variable.py" beforeDir="false" afterPath="$PROJECT_DIR$/Classes and objects/Variable access (1)/access_variable.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Classes and objects/Variable access/access_variable.py" beforeDir="false" afterPath="$PROJECT_DIR$/Classes and objects/Variable access/access_variable.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Condition expressions/Boolean operators/boolean_operators.py" beforeDir="false" afterPath="$PROJECT_DIR$/Condition expressions/Boolean operators/boolean_operators.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Condition expressions/Else, elif part in if statement/else_elif.py" beforeDir="false" afterPath="$PROJECT_DIR$/Condition expressions/Else, elif part in if statement/else_elif.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Condition expressions/If statement/if_statement.py" beforeDir="false" afterPath="$PROJECT_DIR$/Condition expressions/If statement/if_statement.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data structures/Dictionaries/dicts.py" beforeDir="false" afterPath="$PROJECT_DIR$/Data structures/Dictionaries/dicts.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data structures/List items/list_items.py" beforeDir="false" afterPath="$PROJECT_DIR$/Data structures/List items/list_items.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data structures/Lists operations/list_operations.py" beforeDir="false" afterPath="$PROJECT_DIR$/Data structures/Lists operations/list_operations.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data structures/Tuples/tuples.py" beforeDir="false" afterPath="$PROJECT_DIR$/Data structures/Tuples/tuples.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Functions/Default parameters/default_parameter.py" beforeDir="false" afterPath="$PROJECT_DIR$/Functions/Default parameters/default_parameter.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Functions/Definition/functions.py" beforeDir="false" afterPath="$PROJECT_DIR$/Functions/Definition/functions.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Functions/Parameters and call arguments/param_args.py" beforeDir="false" afterPath="$PROJECT_DIR$/Functions/Parameters and call arguments/param_args.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Functions/Return value/return_keyword.py" beforeDir="false" afterPath="$PROJECT_DIR$/Functions/Return value/return_keyword.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Loops/For loop using string/for_string.py" beforeDir="false" afterPath="$PROJECT_DIR$/Loops/For loop using string/for_string.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Loops/For loop/for_loop.py" beforeDir="false" afterPath="$PROJECT_DIR$/Loops/For loop/for_loop.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Loops/While loop/while_loop.py" beforeDir="false" afterPath="$PROJECT_DIR$/Loops/While loop/while_loop.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Modules and packages/Import module/imports.py" beforeDir="false" afterPath="$PROJECT_DIR$/Modules and packages/Import module/imports.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -19,12 +33,12 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Data structures/Lists introduction/lists.py">
+        <entry file="file://$PROJECT_DIR$/Modules and packages/Builtin modules/builtin_modules.py">
           <provider selected="true" editor-type-id="StudyEditor">
             <state>
               <EduEditorState>
-                <MainEditorState relative-caret-position="115">
-                  <caret line="5" column="22" lean-forward="true" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
+                <MainEditorState relative-caret-position="46">
+                  <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="18" />
                 </MainEditorState>
               </EduEditorState>
             </state>
@@ -53,6 +67,26 @@
         <option value="$PROJECT_DIR$/Strings/Basic string methods/string_methods.py" />
         <option value="$PROJECT_DIR$/Strings/String formatting/string_formatting.py" />
         <option value="$PROJECT_DIR$/Data structures/Lists introduction/lists.py" />
+        <option value="$PROJECT_DIR$/Data structures/Lists operations/list_operations.py" />
+        <option value="$PROJECT_DIR$/Data structures/List items/list_items.py" />
+        <option value="$PROJECT_DIR$/Data structures/Tuples/tuples.py" />
+        <option value="$PROJECT_DIR$/Data structures/Dictionaries/dicts.py" />
+        <option value="$PROJECT_DIR$/Condition expressions/Boolean operators/boolean_operators.py" />
+        <option value="$PROJECT_DIR$/Condition expressions/If statement/if_statement.py" />
+        <option value="$PROJECT_DIR$/Condition expressions/Else, elif part in if statement/else_elif.py" />
+        <option value="$PROJECT_DIR$/Loops/For loop/for_loop.py" />
+        <option value="$PROJECT_DIR$/Loops/For loop using string/for_string.py" />
+        <option value="$PROJECT_DIR$/Loops/While loop/while_loop.py" />
+        <option value="$PROJECT_DIR$/Functions/Definition/functions.py" />
+        <option value="$PROJECT_DIR$/Functions/Parameters and call arguments/param_args.py" />
+        <option value="$PROJECT_DIR$/Functions/Return value/return_keyword.py" />
+        <option value="$PROJECT_DIR$/Functions/Default parameters/default_parameter.py" />
+        <option value="$PROJECT_DIR$/Classes and objects/Definition/class_definition.py" />
+        <option value="$PROJECT_DIR$/Classes and objects/Variable access/access_variable.py" />
+        <option value="$PROJECT_DIR$/Classes and objects/Variable access (1)/access_variable.py" />
+        <option value="$PROJECT_DIR$/Classes and objects/Self explanation/self_parameter.py" />
+        <option value="$PROJECT_DIR$/Classes and objects/Special __init__ method/init_method.py" />
+        <option value="$PROJECT_DIR$/Modules and packages/Import module/imports.py" />
       </list>
     </option>
   </component>
@@ -78,24 +112,19 @@
             <path>
               <item name="Introduction to Python" type="a264ea2a:RootNode" />
               <item name="Introduction to Python" type="ed842865:CourseNode" />
-              <item name="Strings" type="d53b8fed:LessonNode" />
+              <item name="Modules and packages" type="d53b8fed:LessonNode" />
             </path>
             <path>
               <item name="Introduction to Python" type="a264ea2a:RootNode" />
               <item name="Introduction to Python" type="ed842865:CourseNode" />
-              <item name="Strings" type="d53b8fed:LessonNode" />
-              <item name="String formatting" type="4928525d:TaskNode" />
+              <item name="Modules and packages" type="d53b8fed:LessonNode" />
+              <item name="Import module" type="4928525d:TaskNode" />
             </path>
             <path>
               <item name="Introduction to Python" type="a264ea2a:RootNode" />
               <item name="Introduction to Python" type="ed842865:CourseNode" />
-              <item name="Data structures" type="d53b8fed:LessonNode" />
-            </path>
-            <path>
-              <item name="Introduction to Python" type="a264ea2a:RootNode" />
-              <item name="Introduction to Python" type="ed842865:CourseNode" />
-              <item name="Data structures" type="d53b8fed:LessonNode" />
-              <item name="Lists introduction" type="4928525d:TaskNode" />
+              <item name="Modules and packages" type="d53b8fed:LessonNode" />
+              <item name="Builtin modules" type="4928525d:TaskNode" />
             </path>
           </expand>
           <select />
@@ -126,7 +155,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Digital Forge" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunDashboard">
@@ -141,8 +170,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.lists">
-    <configuration name="character_escaping" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.imports">
+    <configuration name="access_variable (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Introduction to Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -150,11 +179,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Strings/Character escaping" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Classes and objects/Variable access (1)" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Strings/Character escaping/character_escaping.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Classes and objects/Variable access (1)/access_variable.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -163,7 +192,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="len_function" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="access_variable" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Introduction to Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -171,11 +200,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Strings/String length" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Classes and objects/Variable access" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Strings/String length/len_function.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Classes and objects/Variable access/access_variable.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -184,7 +213,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="lists" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="imports" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Introduction to Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -192,11 +221,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Data structures/Lists introduction" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Modules and packages/Import module" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Data structures/Lists introduction/lists.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Modules and packages/Import module/imports.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -205,7 +234,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="string_formatting" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="init_method" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Introduction to Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -213,11 +242,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Strings/String formatting" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Classes and objects/Special __init__ method" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Strings/String formatting/string_formatting.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Classes and objects/Special __init__ method/init_method.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -226,7 +255,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="string_methods" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="self_parameter" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Introduction to Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -234,11 +263,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Strings/Basic string methods" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Classes and objects/Self explanation" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Strings/Basic string methods/string_methods.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Classes and objects/Self explanation/self_parameter.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -249,11 +278,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.lists" />
-        <item itemvalue="Python.string_formatting" />
-        <item itemvalue="Python.string_methods" />
-        <item itemvalue="Python.character_escaping" />
-        <item itemvalue="Python.len_function" />
+        <item itemvalue="Python.imports" />
+        <item itemvalue="Python.init_method" />
+        <item itemvalue="Python.self_parameter" />
+        <item itemvalue="Python.access_variable (1)" />
+        <item itemvalue="Python.access_variable" />
       </list>
     </recent_temporary>
   </component>
@@ -262,40 +291,28 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2281491" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2281491" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32885906" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32885906" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Python Console" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.32885906" />
+      <window_info anchor="bottom" id="Python Console" order="8" weight="0.32885906" />
       <window_info anchor="bottom" id="Educational.CheckDetails" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.32885906" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Task Description" order="3" visible="true" weight="0.2840617" />
-      <window_info anchor="right" id="Task" order="4" visible="true" weight="0.32969153" />
+      <window_info anchor="right" id="Task" order="4" visible="true" weight="0.21786633" />
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Strings/Concatenation/concatenation.py">
-      <provider selected="true" editor-type-id="StudyEditor">
-        <state>
-          <EduEditorState>
-            <MainEditorState relative-caret-position="85">
-              <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
-            </MainEditorState>
-          </EduEditorState>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Introduction/Our first program/hello_world.py">
       <provider selected="true" editor-type-id="StudyEditor">
         <state>
@@ -417,26 +434,220 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Strings/String length/len_function.py">
+    <entry file="file://$PROJECT_DIR$/Strings/Character escaping/tests.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Data structures/Lists introduction/lists.py">
       <provider selected="true" editor-type-id="StudyEditor">
         <state>
           <EduEditorState>
             <MainEditorState relative-caret-position="115">
-              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="42" />
+              <caret line="5" column="22" lean-forward="true" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
             </MainEditorState>
           </EduEditorState>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Strings/Character escaping/tests.py">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$PROJECT_DIR$/Data structures/Lists operations/list_operations.py">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state>
+          <EduEditorState>
+            <MainEditorState relative-caret-position="207">
+              <caret line="9" column="44" selection-start-line="9" selection-start-column="44" selection-end-line="9" selection-end-column="44" />
+            </MainEditorState>
+          </EduEditorState>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Data structures/List items/list_items.py">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state>
+          <EduEditorState>
+            <MainEditorState relative-caret-position="253">
+              <caret line="11" column="14" lean-forward="true" selection-start-line="11" selection-start-column="14" selection-end-line="11" selection-end-column="14" />
+            </MainEditorState>
+          </EduEditorState>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Data structures/Tuples/tuples.py">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state>
+          <EduEditorState>
+            <MainEditorState />
+          </EduEditorState>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Data structures/Dictionaries/dicts.py">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state>
+          <EduEditorState>
+            <MainEditorState relative-caret-position="230">
+              <caret line="10" column="16" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
+            </MainEditorState>
+          </EduEditorState>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Data structures/Dictionary keys() and values()/dict_key_value.py">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state>
+          <EduEditorState>
+            <MainEditorState relative-caret-position="207">
+              <caret line="9" column="6" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="23" />
+            </MainEditorState>
+          </EduEditorState>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Condition expressions/Boolean operators/boolean_operators.py">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state>
+          <EduEditorState>
+            <MainEditorState />
+          </EduEditorState>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Condition expressions/Boolean operators order/boolean_order.py">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state>
+          <EduEditorState>
+            <MainEditorState relative-caret-position="161">
+              <caret line="7" column="6" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="75" />
+            </MainEditorState>
+          </EduEditorState>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Condition expressions/If statement/if_statement.py">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state>
+          <EduEditorState>
+            <MainEditorState relative-caret-position="207">
+              <caret line="9" column="18" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
+            </MainEditorState>
+          </EduEditorState>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Condition expressions/Else, elif part in if statement/else_elif.py">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state>
+          <EduEditorState>
+            <MainEditorState relative-caret-position="299">
+              <caret line="13" column="18" selection-start-line="13" selection-start-column="18" selection-end-line="13" selection-end-column="18" />
+            </MainEditorState>
+          </EduEditorState>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Loops/For loop/for_loop.py">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state>
+          <EduEditorState>
+            <MainEditorState relative-caret-position="161">
+              <caret line="7" column="11" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
+            </MainEditorState>
+          </EduEditorState>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Loops/For loop using string/for_string.py">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state>
+          <EduEditorState>
+            <MainEditorState relative-caret-position="161">
+              <caret line="7" column="21" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
+            </MainEditorState>
+          </EduEditorState>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Loops/While loop/while_loop.py">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state>
+          <EduEditorState>
+            <MainEditorState relative-caret-position="209">
+              <caret line="11" column="17" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
+            </MainEditorState>
+          </EduEditorState>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Loops/Break keyword/break_keyword.py">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state>
+          <EduEditorState>
+            <MainEditorState relative-caret-position="299">
+              <caret line="13" column="7" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="40" />
+            </MainEditorState>
+          </EduEditorState>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Functions/Definition/functions.py">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state>
+          <EduEditorState>
+            <MainEditorState relative-caret-position="253">
+              <caret line="11" column="10" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
+            </MainEditorState>
+          </EduEditorState>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Functions/Parameters and call arguments/param_args.py">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state>
+          <EduEditorState>
+            <MainEditorState relative-caret-position="115">
+              <caret line="5" selection-start-line="5" selection-end-line="5" selection-end-column="14" />
+            </MainEditorState>
+          </EduEditorState>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Functions/Return value/return_keyword.py">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state>
+          <EduEditorState>
+            <MainEditorState relative-caret-position="345">
+              <caret line="15" column="17" lean-forward="true" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="17" />
+            </MainEditorState>
+          </EduEditorState>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Strings/Concatenation/concatenation.py">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state>
+          <EduEditorState>
+            <MainEditorState relative-caret-position="69">
+              <caret line="3" column="14" selection-start-line="3" selection-start-column="14" selection-end-line="3" selection-end-column="33" />
+            </MainEditorState>
+          </EduEditorState>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Strings/String formatting/string_formatting.py">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state>
+          <EduEditorState>
+            <MainEditorState relative-caret-position="69">
+              <caret line="3" column="11" selection-start-line="3" selection-start-column="11" selection-end-line="3" selection-end-column="13" />
+            </MainEditorState>
+          </EduEditorState>
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Strings/Character escaping/character_escaping.py">
       <provider selected="true" editor-type-id="StudyEditor">
         <state>
           <EduEditorState>
-            <MainEditorState relative-caret-position="78">
-              <caret line="3" column="23" selection-start-line="3" selection-start-column="23" selection-end-line="3" selection-end-column="23" />
+            <MainEditorState relative-caret-position="69">
+              <caret line="3" column="7" selection-start-line="3" selection-start-column="7" selection-end-line="3" selection-end-column="54" />
             </MainEditorState>
           </EduEditorState>
         </state>
@@ -453,23 +664,116 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Strings/String formatting/string_formatting.py">
+    <entry file="file://$PROJECT_DIR$/Strings/String length/len_function.py">
       <provider selected="true" editor-type-id="StudyEditor">
         <state>
           <EduEditorState>
-            <MainEditorState relative-caret-position="92">
-              <caret line="4" selection-start-line="4" selection-end-line="4" />
+            <MainEditorState relative-caret-position="138">
+              <caret line="6" column="17" lean-forward="true" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
             </MainEditorState>
           </EduEditorState>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Data structures/Lists introduction/lists.py">
+    <entry file="file://$PROJECT_DIR$/Functions/Default parameters/default_parameter.py">
       <provider selected="true" editor-type-id="StudyEditor">
         <state>
           <EduEditorState>
-            <MainEditorState relative-caret-position="115">
-              <caret line="5" column="22" lean-forward="true" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
+            <MainEditorState relative-caret-position="276">
+              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+            </MainEditorState>
+          </EduEditorState>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Classes and objects/Definition/class_definition.py">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state>
+          <EduEditorState>
+            <MainEditorState relative-caret-position="92">
+              <caret line="4" column="25" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
+            </MainEditorState>
+          </EduEditorState>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Classes and objects/Variable access/access_variable.py">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state>
+          <EduEditorState>
+            <MainEditorState relative-caret-position="391">
+              <caret line="17" column="25" selection-start-line="17" selection-start-column="25" selection-end-line="17" selection-end-column="25" />
+            </MainEditorState>
+          </EduEditorState>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Classes and objects/Variable access (1)/access_variable.py">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state>
+          <EduEditorState>
+            <MainEditorState relative-caret-position="209">
+              <caret line="12" column="18" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
+            </MainEditorState>
+          </EduEditorState>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Classes and objects/Self explanation/self_parameter.py">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state>
+          <EduEditorState>
+            <MainEditorState relative-caret-position="207">
+              <caret line="9" column="30" selection-start-line="9" selection-start-column="30" selection-end-line="9" selection-end-column="30" />
+            </MainEditorState>
+          </EduEditorState>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Classes and objects/Special __init__ method/init_method.py">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state>
+          <EduEditorState>
+            <MainEditorState />
+          </EduEditorState>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Modules and packages/Import module/my_module.py">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state>
+          <EduEditorState>
+            <MainEditorState />
+          </EduEditorState>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Modules and packages/Import module/calculator.py">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state>
+          <EduEditorState>
+            <MainEditorState />
+          </EduEditorState>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Modules and packages/Import module/imports.py">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state>
+          <EduEditorState>
+            <MainEditorState relative-caret-position="69">
+              <caret line="3" column="104" selection-start-line="3" selection-start-column="104" selection-end-line="3" selection-end-column="104" />
+            </MainEditorState>
+          </EduEditorState>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Modules and packages/Builtin modules/builtin_modules.py">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state>
+          <EduEditorState>
+            <MainEditorState relative-caret-position="46">
+              <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="18" />
             </MainEditorState>
           </EduEditorState>
         </state>

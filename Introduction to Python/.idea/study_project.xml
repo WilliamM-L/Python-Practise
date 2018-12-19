@@ -1621,9 +1621,9 @@
                       </option>
                       <option name="index" value="2" />
                       <option name="name" value="Lists operations" />
-                      <option name="status" value="Unchecked" />
+                      <option name="status" value="Solved" />
                       <option name="stepId" value="186031" />
-                      <option name="stepikChangeStatus" value="Up to date" />
+                      <option name="stepikChangeStatus" value="Info and Content changed" />
                       <option name="taskFiles">
                         <map>
                           <entry key="list_operations.py">
@@ -1645,19 +1645,19 @@
                                         </MyInitialState>
                                       </option>
                                       <option name="initializedFromDependency" value="false" />
-                                      <option name="length" value="30" />
-                                      <option name="offset" value="257" />
+                                      <option name="length" value="24" />
+                                      <option name="offset" value="346" />
                                       <option name="placeholderDependency" />
                                       <option name="placeholderText" value="replace 'dino' with 'dinosaur'" />
                                       <option name="possibleAnswer" value="animals[-1] = 'dinosaur'" />
                                       <option name="selected" value="false" />
-                                      <option name="status" value="Unchecked" />
+                                      <option name="status" value="Solved" />
                                       <option name="studentAnswer" />
                                       <option name="useLength" value="true" />
                                     </AnswerPlaceholder>
                                   </list>
                                 </option>
-                                <option name="highlightErrors" value="false" />
+                                <option name="highlightErrors" value="true" />
                                 <option name="name" value="list_operations.py" />
                                 <option name="text" value="animals = ['elephant', 'lion', 'tiger', &quot;giraffe&quot;]  # create new list&#10;print(animals)&#10;&#10;animals += [&quot;monkey&quot;, 'dog']    # add two items to the list&#10;print(animals)&#10;&#10;animals.append(&quot;dino&quot;)   # add one more item to the list using append() method&#10;print(animals)&#10;&#10;replace 'dino' with 'dinosaur'&#10;print(animals)&#10;" />
                                 <option name="trackChanges" value="true" />
@@ -1691,9 +1691,9 @@
                       </option>
                       <option name="index" value="3" />
                       <option name="name" value="List items" />
-                      <option name="status" value="Unchecked" />
+                      <option name="status" value="Solved" />
                       <option name="stepId" value="186032" />
-                      <option name="stepikChangeStatus" value="Up to date" />
+                      <option name="stepikChangeStatus" value="Info and Content changed" />
                       <option name="taskFiles">
                         <map>
                           <entry key="list_items.py">
@@ -1715,19 +1715,19 @@
                                         </MyInitialState>
                                       </option>
                                       <option name="initializedFromDependency" value="false" />
-                                      <option name="length" value="10" />
+                                      <option name="length" value="45" />
                                       <option name="offset" value="301" />
                                       <option name="placeholderDependency" />
                                       <option name="placeholderText" value="clear list" />
                                       <option name="possibleAnswer" value="animals[:] = []" />
-                                      <option name="selected" value="false" />
-                                      <option name="status" value="Unchecked" />
+                                      <option name="selected" value="true" />
+                                      <option name="status" value="Solved" />
                                       <option name="studentAnswer" />
                                       <option name="useLength" value="true" />
                                     </AnswerPlaceholder>
                                   </list>
                                 </option>
-                                <option name="highlightErrors" value="false" />
+                                <option name="highlightErrors" value="true" />
                                 <option name="name" value="list_items.py" />
                                 <option name="text" value="animals = ['elephant', 'lion', 'tiger', &quot;giraffe&quot;, &quot;monkey&quot;, 'dog']   # create new list&#10;print(animals)&#10;&#10;animals[1:3] = ['cat']    # replace 2 items -- 'lion' and 'tiger' with one item -- 'cat'&#10;print(animals)&#10;&#10;animals[1:3] = []     # remove 2 items -- 'cat' and 'giraffe' from the list&#10;print(animals)&#10;&#10;clear list&#10;print(animals)&#10;" />
                                 <option name="trackChanges" value="true" />
@@ -1761,9 +1761,9 @@
                       </option>
                       <option name="index" value="4" />
                       <option name="name" value="Tuples" />
-                      <option name="status" value="Unchecked" />
+                      <option name="status" value="Solved" />
                       <option name="stepId" value="186033" />
-                      <option name="stepikChangeStatus" value="Up to date" />
+                      <option name="stepikChangeStatus" value="Info and Content changed" />
                       <option name="taskFiles">
                         <map>
                           <entry key="tuples.py">
@@ -1785,19 +1785,19 @@
                                         </MyInitialState>
                                       </option>
                                       <option name="initializedFromDependency" value="false" />
-                                      <option name="length" value="15" />
+                                      <option name="length" value="13" />
                                       <option name="offset" value="161" />
                                       <option name="placeholderDependency" />
                                       <option name="placeholderText" value="alphabet length" />
                                       <option name="possibleAnswer" value="len(alphabet)" />
                                       <option name="selected" value="false" />
-                                      <option name="status" value="Unchecked" />
+                                      <option name="status" value="Solved" />
                                       <option name="studentAnswer" />
                                       <option name="useLength" value="true" />
                                     </AnswerPlaceholder>
                                   </list>
                                 </option>
-                                <option name="highlightErrors" value="false" />
+                                <option name="highlightErrors" value="true" />
                                 <option name="name" value="tuples.py" />
                                 <option name="text" value="alphabet = ('a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l', 'm', 'n', 'o',&#10;            'p', 'q', 'r', 's', 't', 'u', 'v', 'w', 'x', 'y', 'z')&#10;&#10;print(alphabet length)&#10;" />
                                 <option name="trackChanges" value="true" />
@@ -1831,9 +1831,9 @@
                       </option>
                       <option name="index" value="5" />
                       <option name="name" value="Dictionaries" />
-                      <option name="status" value="Unchecked" />
+                      <option name="status" value="Solved" />
                       <option name="stepId" value="186034" />
-                      <option name="stepikChangeStatus" value="Up to date" />
+                      <option name="stepikChangeStatus" value="Info and Content changed" />
                       <option name="taskFiles">
                         <map>
                           <entry key="dicts.py">
@@ -1855,19 +1855,19 @@
                                         </MyInitialState>
                                       </option>
                                       <option name="initializedFromDependency" value="false" />
-                                      <option name="length" value="12" />
-                                      <option name="offset" value="311" />
+                                      <option name="length" value="18" />
+                                      <option name="offset" value="329" />
                                       <option name="placeholderDependency" />
                                       <option name="placeholderText" value="Jane's phone" />
                                       <option name="possibleAnswer" value="phone_book['Jane']" />
                                       <option name="selected" value="false" />
-                                      <option name="status" value="Unchecked" />
+                                      <option name="status" value="Solved" />
                                       <option name="studentAnswer" />
                                       <option name="useLength" value="true" />
                                     </AnswerPlaceholder>
                                   </list>
                                 </option>
-                                <option name="highlightErrors" value="false" />
+                                <option name="highlightErrors" value="true" />
                                 <option name="name" value="dicts.py" />
                                 <option name="text" value="# create new dictionary.&#10;phone_book = {&quot;John&quot;: 123, &quot;Jane&quot;: 234, &quot;Jerard&quot;: 345}    # &quot;John&quot;, &quot;Jane&quot; and &quot;Jerard&quot; are keys and numbers are values&#10;print(phone_book)&#10;&#10;# Add new item to the dictionary&#10;phone_book[&quot;Jill&quot;] = 345&#10;print(phone_book)&#10;&#10;# Remove key-value pair from phone_book&#10;del phone_book['John']&#10;&#10;print(Jane's phone)&#10;" />
                                 <option name="trackChanges" value="true" />
@@ -2054,9 +2054,9 @@
                       </option>
                       <option name="index" value="1" />
                       <option name="name" value="Boolean operators" />
-                      <option name="status" value="Unchecked" />
+                      <option name="status" value="Solved" />
                       <option name="stepId" value="186037" />
-                      <option name="stepikChangeStatus" value="Up to date" />
+                      <option name="stepikChangeStatus" value="Info and Content changed" />
                       <option name="taskFiles">
                         <map>
                           <entry key="boolean_operators.py">
@@ -2078,19 +2078,19 @@
                                         </MyInitialState>
                                       </option>
                                       <option name="initializedFromDependency" value="false" />
-                                      <option name="length" value="24" />
+                                      <option name="length" value="28" />
                                       <option name="offset" value="132" />
                                       <option name="placeholderDependency" />
                                       <option name="placeholderText" value="John is not 23 years old" />
                                       <option name="possibleAnswer" value="name == 'John' and age != 23" />
                                       <option name="selected" value="false" />
-                                      <option name="status" value="Unchecked" />
+                                      <option name="status" value="Solved" />
                                       <option name="studentAnswer" />
                                       <option name="useLength" value="true" />
                                     </AnswerPlaceholder>
                                   </list>
                                 </option>
-                                <option name="highlightErrors" value="false" />
+                                <option name="highlightErrors" value="true" />
                                 <option name="name" value="boolean_operators.py" />
                                 <option name="text" value="name = &quot;John&quot;&#10;age = 17&#10;&#10;print(name == &quot;John&quot; or age == 17)    # checks that either name equals to &quot;John&quot; OR age equals to 17&#10;&#10;print(John is not 23 years old)&#10;" />
                                 <option name="trackChanges" value="true" />
@@ -2194,9 +2194,9 @@
                       </option>
                       <option name="index" value="3" />
                       <option name="name" value="If statement" />
-                      <option name="status" value="Unchecked" />
+                      <option name="status" value="Solved" />
                       <option name="stepId" value="186039" />
-                      <option name="stepikChangeStatus" value="Up to date" />
+                      <option name="stepikChangeStatus" value="Info and Content changed" />
                       <option name="taskFiles">
                         <map>
                           <entry key="if_statement.py">
@@ -2218,19 +2218,19 @@
                                         </MyInitialState>
                                       </option>
                                       <option name="initializedFromDependency" value="false" />
-                                      <option name="length" value="25" />
+                                      <option name="length" value="18" />
                                       <option name="offset" value="236" />
                                       <option name="placeholderDependency" />
                                       <option name="placeholderText" value="check if 'tasks' is empty" />
                                       <option name="possibleAnswer" value="if len(tasks) == 0:" />
                                       <option name="selected" value="false" />
-                                      <option name="status" value="Unchecked" />
+                                      <option name="status" value="Solved" />
                                       <option name="studentAnswer" />
                                       <option name="useLength" value="true" />
                                     </AnswerPlaceholder>
                                   </list>
                                 </option>
-                                <option name="highlightErrors" value="false" />
+                                <option name="highlightErrors" value="true" />
                                 <option name="name" value="if_statement.py" />
                                 <option name="text" value="name = &quot;John&quot;&#10;age = 17&#10;&#10;if name == &quot;John&quot; or age == 17:   # check that name is &quot;John&quot; or age is 17. If so print next 2 lines.&#10;    print(&quot;name is John&quot;)&#10;    print(&quot;John is 17 years old&quot;)&#10;&#10;tasks = ['task1', 'task2']    # create new list&#10;&#10;check if 'tasks' is empty&#10;    print(&quot;empty&quot;)&#10;" />
                                 <option name="trackChanges" value="true" />
@@ -2264,9 +2264,9 @@
                       </option>
                       <option name="index" value="4" />
                       <option name="name" value="Else, elif part in if statement" />
-                      <option name="status" value="Unchecked" />
+                      <option name="status" value="Solved" />
                       <option name="stepId" value="186040" />
-                      <option name="stepikChangeStatus" value="Up to date" />
+                      <option name="stepikChangeStatus" value="Info and Content changed" />
                       <option name="taskFiles">
                         <map>
                           <entry key="else_elif.py">
@@ -2288,13 +2288,13 @@
                                         </MyInitialState>
                                       </option>
                                       <option name="initializedFromDependency" value="false" />
-                                      <option name="length" value="29" />
+                                      <option name="length" value="18" />
                                       <option name="offset" value="352" />
                                       <option name="placeholderDependency" />
                                       <option name="placeholderText" value="check if name equal to &quot;John&quot;" />
                                       <option name="possibleAnswer" value="if name == 'John':" />
-                                      <option name="selected" value="false" />
-                                      <option name="status" value="Unchecked" />
+                                      <option name="selected" value="true" />
+                                      <option name="status" value="Solved" />
                                       <option name="studentAnswer" />
                                       <option name="useLength" value="true" />
                                     </AnswerPlaceholder>
@@ -2312,19 +2312,19 @@
                                         </MyInitialState>
                                       </option>
                                       <option name="initializedFromDependency" value="false" />
-                                      <option name="length" value="9" />
-                                      <option name="offset" value="398" />
+                                      <option name="length" value="5" />
+                                      <option name="offset" value="387" />
                                       <option name="placeholderDependency" />
                                       <option name="placeholderText" value="otherwise" />
                                       <option name="possibleAnswer" value="else:" />
-                                      <option name="selected" value="false" />
-                                      <option name="status" value="Unchecked" />
+                                      <option name="selected" value="true" />
+                                      <option name="status" value="Solved" />
                                       <option name="studentAnswer" />
                                       <option name="useLength" value="true" />
                                     </AnswerPlaceholder>
                                   </list>
                                 </option>
-                                <option name="highlightErrors" value="false" />
+                                <option name="highlightErrors" value="true" />
                                 <option name="name" value="else_elif.py" />
                                 <option name="text" value="x = 28&#10;&#10;if x &lt; 0:&#10;    print('x &lt; 0')                      # executes only if x &lt; 0&#10;elif x == 0:&#10;    print('x is zero')                 # if it's not true that x &lt; 0, check if x == 0&#10;elif x == 1:&#10;    print('x == 1')                    # if it's not true that x &lt; 0 and x != 0, check if x == 1&#10;else:&#10;    print('non of the above is true')&#10;&#10;name = &quot;John&quot;&#10;&#10;check if name equal to &quot;John&quot;&#10;    print(True)&#10;otherwise&#10;    print(False)&#10;" />
                                 <option name="trackChanges" value="true" />
@@ -2371,9 +2371,9 @@
                       </option>
                       <option name="index" value="1" />
                       <option name="name" value="For loop" />
-                      <option name="status" value="Unchecked" />
+                      <option name="status" value="Solved" />
                       <option name="stepId" value="186041" />
-                      <option name="stepikChangeStatus" value="Up to date" />
+                      <option name="stepikChangeStatus" value="Info and Content changed" />
                       <option name="taskFiles">
                         <map>
                           <entry key="for_loop.py">
@@ -2395,19 +2395,19 @@
                                         </MyInitialState>
                                       </option>
                                       <option name="initializedFromDependency" value="false" />
-                                      <option name="length" value="34" />
+                                      <option name="length" value="16" />
                                       <option name="offset" value="238" />
                                       <option name="placeholderDependency" />
                                       <option name="placeholderText" value="iterate over primes using for loop" />
                                       <option name="possibleAnswer" value="for prime in primes:" />
-                                      <option name="selected" value="false" />
-                                      <option name="status" value="Unchecked" />
+                                      <option name="selected" value="true" />
+                                      <option name="status" value="Solved" />
                                       <option name="studentAnswer" />
                                       <option name="useLength" value="true" />
                                     </AnswerPlaceholder>
                                   </list>
                                 </option>
-                                <option name="highlightErrors" value="false" />
+                                <option name="highlightErrors" value="true" />
                                 <option name="name" value="for_loop.py" />
                                 <option name="text" value="for i in range(5):    # for each number i in range 0-4. range(5) function returns list [0, 1, 2, 3, 4]&#10;    print(i)          # this line is executed 5 times. First time i equals 0, then 1, ...&#10;&#10;&#10;primes = [2, 3, 5, 7]   # create new list&#10;&#10;iterate over primes using for loop&#10;    print(prime)&#10;" />
                                 <option name="trackChanges" value="true" />
@@ -2441,9 +2441,9 @@
                       </option>
                       <option name="index" value="2" />
                       <option name="name" value="For loop using string" />
-                      <option name="status" value="Unchecked" />
+                      <option name="status" value="Solved" />
                       <option name="stepId" value="186042" />
-                      <option name="stepikChangeStatus" value="Up to date" />
+                      <option name="stepikChangeStatus" value="Info and Content changed" />
                       <option name="taskFiles">
                         <map>
                           <entry key="for_string.py">
@@ -2465,19 +2465,19 @@
                                         </MyInitialState>
                                       </option>
                                       <option name="initializedFromDependency" value="false" />
-                                      <option name="length" value="59" />
+                                      <option name="length" value="21" />
                                       <option name="offset" value="158" />
                                       <option name="placeholderDependency" />
                                       <option name="placeholderText" value="count how many characters are in the hello_world using loop" />
                                       <option name="possibleAnswer" value="for ch in hello_world:" />
                                       <option name="selected" value="false" />
-                                      <option name="status" value="Unchecked" />
+                                      <option name="status" value="Solved" />
                                       <option name="studentAnswer" />
                                       <option name="useLength" value="true" />
                                     </AnswerPlaceholder>
                                   </list>
                                 </option>
-                                <option name="highlightErrors" value="false" />
+                                <option name="highlightErrors" value="true" />
                                 <option name="name" value="for_string.py" />
                                 <option name="text" value="hello_world = &quot;Hello, World!&quot;&#10;&#10;for ch in hello_world:    # print each character from hello_world&#10;    print(ch)&#10;&#10;length = 0      # initialize length variable&#10;&#10;count how many characters are in the hello_world using loop&#10;    length += 1     # add 1 to the length on each iteration&#10;&#10;print(len(hello_world) == length)&#10;" />
                                 <option name="trackChanges" value="true" />
@@ -2511,9 +2511,9 @@
                       </option>
                       <option name="index" value="3" />
                       <option name="name" value="While loop" />
-                      <option name="status" value="Unchecked" />
+                      <option name="status" value="Solved" />
                       <option name="stepId" value="186043" />
-                      <option name="stepikChangeStatus" value="Up to date" />
+                      <option name="stepikChangeStatus" value="Info and Content changed" />
                       <option name="taskFiles">
                         <map>
                           <entry key="while_loop.py">
@@ -2535,19 +2535,19 @@
                                         </MyInitialState>
                                       </option>
                                       <option name="initializedFromDependency" value="false" />
-                                      <option name="length" value="30" />
+                                      <option name="length" value="18" />
                                       <option name="offset" value="213" />
                                       <option name="placeholderDependency" />
                                       <option name="placeholderText" value="print all squares from 0 to 99" />
                                       <option name="possibleAnswer" value="while square &lt; 81:" />
-                                      <option name="selected" value="false" />
-                                      <option name="status" value="Unchecked" />
+                                      <option name="selected" value="true" />
+                                      <option name="status" value="Solved" />
                                       <option name="studentAnswer" />
                                       <option name="useLength" value="true" />
                                     </AnswerPlaceholder>
                                   </list>
                                 </option>
-                                <option name="highlightErrors" value="false" />
+                                <option name="highlightErrors" value="true" />
                                 <option name="name" value="while_loop.py" />
                                 <option name="text" value="square = 1&#10;&#10;while square &lt;= 10:&#10;    print(square)    # This code is executed 10 times&#10;    square += 1      # This code is executed 10 times&#10;&#10;print(&quot;Finished&quot;)  # This code is executed once&#10;&#10;square = 0&#10;number = 1&#10;&#10;print all squares from 0 to 99&#10;    square = number ** 2&#10;    print(square)&#10;    number += 1&#10;" />
                                 <option name="trackChanges" value="true" />
@@ -2734,9 +2734,9 @@
                       </option>
                       <option name="index" value="1" />
                       <option name="name" value="Definition" />
-                      <option name="status" value="Unchecked" />
+                      <option name="status" value="Solved" />
                       <option name="stepId" value="186046" />
-                      <option name="stepikChangeStatus" value="Up to date" />
+                      <option name="stepikChangeStatus" value="Info and Content changed" />
                       <option name="taskFiles">
                         <map>
                           <entry key="functions.py">
@@ -2758,19 +2758,19 @@
                                         </MyInitialState>
                                       </option>
                                       <option name="initializedFromDependency" value="false" />
-                                      <option name="length" value="58" />
+                                      <option name="length" value="10" />
                                       <option name="offset" value="256" />
                                       <option name="placeholderDependency" />
                                       <option name="placeholderText" value="define a function named 'fun' to replace three lines above" />
                                       <option name="possibleAnswer" value="def fun():" />
-                                      <option name="selected" value="false" />
-                                      <option name="status" value="Unchecked" />
+                                      <option name="selected" value="true" />
+                                      <option name="status" value="Solved" />
                                       <option name="studentAnswer" />
                                       <option name="useLength" value="true" />
                                     </AnswerPlaceholder>
                                   </list>
                                 </option>
-                                <option name="highlightErrors" value="false" />
+                                <option name="highlightErrors" value="true" />
                                 <option name="name" value="functions.py" />
                                 <option name="text" value="def hello_world():  # function named my_function&#10;    print(&quot;Hello, World!&quot;)&#10;&#10;for i in range(5):&#10;    hello_world()   # call function defined above 5 times&#10;&#10;print('I want to be a function')&#10;print('I want to be a function')&#10;print('I want to be a function')&#10;&#10;&#10;define a function named 'fun' to replace three lines above&#10;    print('I want to be a function')&#10;&#10;for i in range(3):&#10;    fun()&#10;" />
                                 <option name="trackChanges" value="true" />
@@ -2804,9 +2804,9 @@
                       </option>
                       <option name="index" value="2" />
                       <option name="name" value="Parameters and call arguments" />
-                      <option name="status" value="Unchecked" />
+                      <option name="status" value="Solved" />
                       <option name="stepId" value="186047" />
-                      <option name="stepikChangeStatus" value="Up to date" />
+                      <option name="stepikChangeStatus" value="Info and Content changed" />
                       <option name="taskFiles">
                         <map>
                           <entry key="param_args.py">
@@ -2828,19 +2828,19 @@
                                         </MyInitialState>
                                       </option>
                                       <option name="initializedFromDependency" value="false" />
-                                      <option name="length" value="71" />
+                                      <option name="length" value="14" />
                                       <option name="offset" value="159" />
                                       <option name="placeholderDependency" />
                                       <option name="placeholderText" value="define a function named 'square' that prints square of passed parameter" />
                                       <option name="possibleAnswer" value="def square(x):" />
-                                      <option name="selected" value="false" />
-                                      <option name="status" value="Unchecked" />
+                                      <option name="selected" value="true" />
+                                      <option name="status" value="Solved" />
                                       <option name="studentAnswer" />
                                       <option name="useLength" value="true" />
                                     </AnswerPlaceholder>
                                   </list>
                                 </option>
-                                <option name="highlightErrors" value="false" />
+                                <option name="highlightErrors" value="true" />
                                 <option name="name" value="param_args.py" />
                                 <option name="text" value="def foo(x):                 # x is a function parameter&#10;    print(&quot;x = &quot; + str(x))&#10;&#10;foo(5)   # pass 5 to foo(). Here 5 is an argument passed to function foo.&#10;&#10;define a function named 'square' that prints square of passed parameter&#10;    print(x ** 2)&#10;&#10;square(4)&#10;square(8)&#10;square(15)&#10;square(23)&#10;square(42)&#10;" />
                                 <option name="trackChanges" value="true" />
@@ -2874,9 +2874,9 @@
                       </option>
                       <option name="index" value="3" />
                       <option name="name" value="Return value" />
-                      <option name="status" value="Unchecked" />
+                      <option name="status" value="Solved" />
                       <option name="stepId" value="186048" />
-                      <option name="stepikChangeStatus" value="Up to date" />
+                      <option name="stepikChangeStatus" value="Info and Content changed" />
                       <option name="taskFiles">
                         <map>
                           <entry key="return_keyword.py">
@@ -2898,13 +2898,13 @@
                                         </MyInitialState>
                                       </option>
                                       <option name="initializedFromDependency" value="false" />
-                                      <option name="length" value="21" />
+                                      <option name="length" value="1" />
                                       <option name="offset" value="373" />
                                       <option name="placeholderDependency" />
                                       <option name="placeholderText" value="initialize variable b" />
                                       <option name="possibleAnswer" value="1" />
                                       <option name="selected" value="false" />
-                                      <option name="status" value="Unchecked" />
+                                      <option name="status" value="Solved" />
                                       <option name="studentAnswer" />
                                       <option name="useLength" value="true" />
                                     </AnswerPlaceholder>
@@ -2922,13 +2922,13 @@
                                         </MyInitialState>
                                       </option>
                                       <option name="initializedFromDependency" value="false" />
-                                      <option name="length" value="17" />
-                                      <option name="offset" value="465" />
+                                      <option name="length" value="18" />
+                                      <option name="offset" value="437" />
                                       <option name="placeholderDependency" />
                                       <option name="placeholderText" value="update variable b" />
                                       <option name="possibleAnswer" value="b = a + b" />
-                                      <option name="selected" value="false" />
-                                      <option name="status" value="Unchecked" />
+                                      <option name="selected" value="true" />
+                                      <option name="status" value="Solved" />
                                       <option name="studentAnswer" />
                                       <option name="useLength" value="true" />
                                     </AnswerPlaceholder>
@@ -2946,19 +2946,19 @@
                                         </MyInitialState>
                                       </option>
                                       <option name="initializedFromDependency" value="false" />
-                                      <option name="length" value="17" />
-                                      <option name="offset" value="491" />
+                                      <option name="length" value="11" />
+                                      <option name="offset" value="463" />
                                       <option name="placeholderDependency" />
                                       <option name="placeholderText" value="update variable a" />
                                       <option name="possibleAnswer" value="a = tmp_var" />
-                                      <option name="selected" value="false" />
-                                      <option name="status" value="Unchecked" />
+                                      <option name="selected" value="true" />
+                                      <option name="status" value="Solved" />
                                       <option name="studentAnswer" />
                                       <option name="useLength" value="true" />
                                     </AnswerPlaceholder>
                                   </list>
                                 </option>
-                                <option name="highlightErrors" value="false" />
+                                <option name="highlightErrors" value="true" />
                                 <option name="name" value="return_keyword.py" />
                                 <option name="text" value="def sum_two_numbers(a, b):&#10;    return a + b            # return result to the function caller&#10;&#10;c = sum_two_numbers(3, 12)  # assign result of function execution to variable 'c'&#10;&#10;&#10;def fib(n):&#10;    &quot;&quot;&quot;This is documentation string for function. It'll be available by fib.__doc__()&#10;    Return a list containing the Fibonacci series up to n.&quot;&quot;&quot;&#10;    result = []&#10;    a = 1&#10;    b = initialize variable b&#10;    while a &lt; n:&#10;        result.append(a)&#10;        tmp_var = b&#10;        update variable b&#10;        update variable a&#10;    return result&#10;&#10;print(fib(10))&#10;" />
                                 <option name="trackChanges" value="true" />
@@ -2992,9 +2992,9 @@
                       </option>
                       <option name="index" value="4" />
                       <option name="name" value="Default parameters" />
-                      <option name="status" value="Unchecked" />
+                      <option name="status" value="Solved" />
                       <option name="stepId" value="186049" />
-                      <option name="stepikChangeStatus" value="Up to date" />
+                      <option name="stepikChangeStatus" value="Info and Content changed" />
                       <option name="taskFiles">
                         <map>
                           <entry key="default_parameter.py">
@@ -3016,19 +3016,19 @@
                                         </MyInitialState>
                                       </option>
                                       <option name="initializedFromDependency" value="false" />
-                                      <option name="length" value="55" />
+                                      <option name="length" value="20" />
                                       <option name="offset" value="158" />
                                       <option name="placeholderDependency" />
                                       <option name="placeholderText" value="add parameters for function, set default value for name" />
                                       <option name="possibleAnswer" value="subject, name='John'" />
                                       <option name="selected" value="false" />
-                                      <option name="status" value="Unchecked" />
+                                      <option name="status" value="Solved" />
                                       <option name="studentAnswer" />
                                       <option name="useLength" value="true" />
                                     </AnswerPlaceholder>
                                   </list>
                                 </option>
-                                <option name="highlightErrors" value="false" />
+                                <option name="highlightErrors" value="true" />
                                 <option name="name" value="default_parameter.py" />
                                 <option name="text" value="def multiply_by(a, b=2):&#10;    return a * b&#10;&#10;print(multiply_by(3, 47))&#10;print(multiply_by(3))    # call function using default value for b parameter&#10;&#10;&#10;def hello(add parameters for function, set default value for name):&#10;    print(&quot;Hello %s! My name is %s&quot; % (subject, name))&#10;&#10;hello(&quot;PyCharm&quot;, &quot;Jane&quot;)    # call 'hello' function with &quot;PyCharm as a subject parameter and &quot;Jane&quot; as a name&#10;hello(&quot;PyCharm&quot;)            # call 'hello' function with &quot;PyCharm as a subject parameter and default value for the name&#10;" />
                                 <option name="trackChanges" value="true" />
@@ -3075,9 +3075,9 @@
                       </option>
                       <option name="index" value="1" />
                       <option name="name" value="Definition" />
-                      <option name="status" value="Unchecked" />
+                      <option name="status" value="Solved" />
                       <option name="stepId" value="186050" />
-                      <option name="stepikChangeStatus" value="Up to date" />
+                      <option name="stepikChangeStatus" value="Info and Content changed" />
                       <option name="taskFiles">
                         <map>
                           <entry key="class_definition.py">
@@ -3099,19 +3099,19 @@
                                         </MyInitialState>
                                       </option>
                                       <option name="initializedFromDependency" value="false" />
-                                      <option name="length" value="28" />
+                                      <option name="length" value="1" />
                                       <option name="offset" value="30" />
                                       <option name="placeholderDependency" />
                                       <option name="placeholderText" value="assign any value to variable" />
                                       <option name="possibleAnswer" value="4" />
                                       <option name="selected" value="false" />
-                                      <option name="status" value="Unchecked" />
+                                      <option name="status" value="Solved" />
                                       <option name="studentAnswer" />
                                       <option name="useLength" value="true" />
                                     </AnswerPlaceholder>
                                   </list>
                                 </option>
-                                <option name="highlightErrors" value="false" />
+                                <option name="highlightErrors" value="true" />
                                 <option name="name" value="class_definition.py" />
                                 <option name="text" value="class MyClass:&#10;    variable = assign any value to variable&#10;&#10;    def foo(self):   # we'll explain self parameter later in task 4&#10;        print(&quot;Hello from function foo&quot;)&#10;&#10;my_object = MyClass()  # variable &quot;my_object&quot; holds an object of the class &quot;MyClass&quot; that contains the variable and the &quot;foo&quot; function&#10;" />
                                 <option name="trackChanges" value="true" />
@@ -3145,9 +3145,9 @@
                       </option>
                       <option name="index" value="2" />
                       <option name="name" value="Variable access" />
-                      <option name="status" value="Unchecked" />
+                      <option name="status" value="Solved" />
                       <option name="stepId" value="186051" />
-                      <option name="stepikChangeStatus" value="Up to date" />
+                      <option name="stepikChangeStatus" value="Info and Content changed" />
                       <option name="taskFiles">
                         <map>
                           <entry key="access_variable.py">
@@ -3169,19 +3169,19 @@
                                         </MyInitialState>
                                       </option>
                                       <option name="initializedFromDependency" value="false" />
-                                      <option name="length" value="33" />
+                                      <option name="length" value="19" />
                                       <option name="offset" value="408" />
                                       <option name="placeholderDependency" />
                                       <option name="placeholderText" value="value of variable1 from my_object" />
                                       <option name="possibleAnswer" value="my_object.variable1" />
                                       <option name="selected" value="false" />
-                                      <option name="status" value="Unchecked" />
+                                      <option name="status" value="Solved" />
                                       <option name="studentAnswer" />
                                       <option name="useLength" value="true" />
                                     </AnswerPlaceholder>
                                   </list>
                                 </option>
-                                <option name="highlightErrors" value="false" />
+                                <option name="highlightErrors" value="true" />
                                 <option name="name" value="access_variable.py" />
                                 <option name="text" value="class MyClass:&#10;    variable1 = 1&#10;    variable2 = 2&#10;&#10;    def foo(self):     # we'll explain self parameter later in task 4&#10;        print(&quot;Hello from function foo&quot;)&#10;&#10;my_object = MyClass()&#10;my_object1 = MyClass()&#10;&#10;my_object.variable2 = 3     # change value stored in variable2 in my_object&#10;&#10;print(my_object.variable2)&#10;print(my_object1.variable2)&#10;&#10;my_object.foo()   # call method foo() of object my_object&#10;&#10;print(value of variable1 from my_object)&#10;&#10;" />
                                 <option name="trackChanges" value="true" />
@@ -3215,9 +3215,9 @@
                       </option>
                       <option name="index" value="3" />
                       <option name="name" value="Variable access (1)" />
-                      <option name="status" value="Unchecked" />
+                      <option name="status" value="Solved" />
                       <option name="stepId" value="186052" />
-                      <option name="stepikChangeStatus" value="Up to date" />
+                      <option name="stepikChangeStatus" value="Info and Content changed" />
                       <option name="taskFiles">
                         <map>
                           <entry key="access_variable.py">
@@ -3239,13 +3239,13 @@
                                         </MyInitialState>
                                       </option>
                                       <option name="initializedFromDependency" value="false" />
-                                      <option name="length" value="20" />
+                                      <option name="length" value="7" />
                                       <option name="offset" value="220" />
                                       <option name="placeholderDependency" />
                                       <option name="placeholderText" value="create object of Car" />
                                       <option name="possibleAnswer" value="Car()" />
-                                      <option name="selected" value="false" />
-                                      <option name="status" value="Unchecked" />
+                                      <option name="selected" value="true" />
+                                      <option name="status" value="Solved" />
                                       <option name="studentAnswer" />
                                       <option name="useLength" value="true" />
                                     </AnswerPlaceholder>
@@ -3263,19 +3263,19 @@
                                         </MyInitialState>
                                       </option>
                                       <option name="initializedFromDependency" value="false" />
-                                      <option name="length" value="14" />
-                                      <option name="offset" value="262" />
+                                      <option name="length" value="18" />
+                                      <option name="offset" value="249" />
                                       <option name="placeholderDependency" />
                                       <option name="placeholderText" value="set car2 color" />
                                       <option name="possibleAnswer" value="car2.color = &quot;red&quot;" />
-                                      <option name="selected" value="false" />
-                                      <option name="status" value="Unchecked" />
+                                      <option name="selected" value="true" />
+                                      <option name="status" value="Solved" />
                                       <option name="studentAnswer" />
                                       <option name="useLength" value="true" />
                                     </AnswerPlaceholder>
                                   </list>
                                 </option>
-                                <option name="highlightErrors" value="false" />
+                                <option name="highlightErrors" value="true" />
                                 <option name="name" value="access_variable.py" />
                                 <option name="text" value="class Car:&#10;    color = &quot;&quot;&#10;    def description(self):&#10;        description_string = &quot;This is a %s car.&quot; % self.color    # we'll explain self parameter later in task 4&#10;        return description_string&#10;&#10;car1 = Car()&#10;car2 = create object of Car&#10;&#10;car1.color = &quot;blue&quot;&#10;set car2 color&#10;&#10;print(car1.description())&#10;print(car2.description())&#10;" />
                                 <option name="trackChanges" value="true" />
@@ -3309,9 +3309,9 @@
                       </option>
                       <option name="index" value="4" />
                       <option name="name" value="Self explanation" />
-                      <option name="status" value="Unchecked" />
+                      <option name="status" value="Solved" />
                       <option name="stepId" value="186053" />
-                      <option name="stepikChangeStatus" value="Up to date" />
+                      <option name="stepikChangeStatus" value="Info and Content changed" />
                       <option name="taskFiles">
                         <map>
                           <entry key="self_parameter.py">
@@ -3333,19 +3333,19 @@
                                         </MyInitialState>
                                       </option>
                                       <option name="initializedFromDependency" value="false" />
-                                      <option name="length" value="21" />
+                                      <option name="length" value="22" />
                                       <option name="offset" value="184" />
                                       <option name="placeholderDependency" />
                                       <option name="placeholderText" value="add number to current" />
                                       <option name="possibleAnswer" value="self.current += amount" />
                                       <option name="selected" value="false" />
-                                      <option name="status" value="Unchecked" />
+                                      <option name="status" value="Solved" />
                                       <option name="studentAnswer" />
                                       <option name="useLength" value="true" />
                                     </AnswerPlaceholder>
                                   </list>
                                 </option>
-                                <option name="highlightErrors" value="false" />
+                                <option name="highlightErrors" value="true" />
                                 <option name="name" value="self_parameter.py" />
                                 <option name="text" value="class Complex:&#10;    def create(self, real_part, imag_part):&#10;        self.r = real_part&#10;        self.i = imag_part&#10;&#10;class Calculator:&#10;    current = 0&#10;&#10;    def add(self, amount):&#10;        add number to current&#10;&#10;    def get_current(self):&#10;        return self.current&#10;" />
                                 <option name="trackChanges" value="true" />
@@ -3379,9 +3379,9 @@
                       </option>
                       <option name="index" value="5" />
                       <option name="name" value="Special __init__ method" />
-                      <option name="status" value="Unchecked" />
+                      <option name="status" value="Solved" />
                       <option name="stepId" value="186054" />
-                      <option name="stepikChangeStatus" value="Up to date" />
+                      <option name="stepikChangeStatus" value="Info and Content changed" />
                       <option name="taskFiles">
                         <map>
                           <entry key="init_method.py">
@@ -3403,19 +3403,19 @@
                                         </MyInitialState>
                                       </option>
                                       <option name="initializedFromDependency" value="false" />
-                                      <option name="length" value="19" />
+                                      <option name="length" value="11" />
                                       <option name="offset" value="159" />
                                       <option name="placeholderDependency" />
                                       <option name="placeholderText" value="add parameters here" />
                                       <option name="possibleAnswer" value="self, color" />
                                       <option name="selected" value="false" />
-                                      <option name="status" value="Unchecked" />
+                                      <option name="status" value="Solved" />
                                       <option name="studentAnswer" />
                                       <option name="useLength" value="true" />
                                     </AnswerPlaceholder>
                                   </list>
                                 </option>
-                                <option name="highlightErrors" value="false" />
+                                <option name="highlightErrors" value="true" />
                                 <option name="name" value="init_method.py" />
                                 <option name="text" value="class Square:&#10;&#10;    def __init__(self):    # special method __init__&#10;        self.sides = 4&#10;&#10;square = Square()&#10;print(square.sides)&#10;&#10;class Car:&#10;    def __init__(add parameters here):&#10;        self.color = color&#10;&#10;car = Car(&quot;blue&quot;)    # Note: you should not pass self parameter explicitly, only color parameter&#10;&#10;print(car.color)&#10;" />
                                 <option name="trackChanges" value="true" />
@@ -3462,9 +3462,9 @@
                       </option>
                       <option name="index" value="1" />
                       <option name="name" value="Import module" />
-                      <option name="status" value="Unchecked" />
+                      <option name="status" value="Solved" />
                       <option name="stepId" value="186055" />
-                      <option name="stepikChangeStatus" value="Up to date" />
+                      <option name="stepikChangeStatus" value="Info and Content changed" />
                       <option name="taskFiles">
                         <map>
                           <entry key="calculator.py">
@@ -3502,13 +3502,13 @@
                                         </MyInitialState>
                                       </option>
                                       <option name="initializedFromDependency" value="false" />
-                                      <option name="length" value="21" />
+                                      <option name="length" value="16" />
                                       <option name="offset" value="164" />
                                       <option name="placeholderDependency" />
                                       <option name="placeholderText" value="here import my_module" />
                                       <option name="possibleAnswer" value="import my_module" />
-                                      <option name="selected" value="false" />
-                                      <option name="status" value="Unchecked" />
+                                      <option name="selected" value="true" />
+                                      <option name="status" value="Solved" />
                                       <option name="studentAnswer" />
                                       <option name="useLength" value="true" />
                                     </AnswerPlaceholder>
@@ -3526,19 +3526,19 @@
                                         </MyInitialState>
                                       </option>
                                       <option name="initializedFromDependency" value="false" />
-                                      <option name="length" value="40" />
-                                      <option name="offset" value="187" />
+                                      <option name="length" value="32" />
+                                      <option name="offset" value="182" />
                                       <option name="placeholderDependency" />
                                       <option name="placeholderText" value="call function hello_world from my_module" />
                                       <option name="possibleAnswer" value="my_module.hello_world('John')" />
-                                      <option name="selected" value="false" />
-                                      <option name="status" value="Unchecked" />
+                                      <option name="selected" value="true" />
+                                      <option name="status" value="Solved" />
                                       <option name="studentAnswer" />
                                       <option name="useLength" value="true" />
                                     </AnswerPlaceholder>
                                   </list>
                                 </option>
-                                <option name="highlightErrors" value="false" />
+                                <option name="highlightErrors" value="true" />
                                 <option name="name" value="imports.py" />
                                 <option name="text" value="&#10;import calculator&#10;&#10;calc = calculator.Calculator()    # create new instance of Calculator class defined in calculator module&#10;calc.add(2)&#10;print(calc.get_current())&#10;&#10;here import my_module&#10;&#10;call function hello_world from my_module&#10;" />
                                 <option name="trackChanges" value="true" />

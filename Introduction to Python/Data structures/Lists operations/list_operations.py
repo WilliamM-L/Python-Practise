@@ -6,6 +6,7 @@ print(animals)
 
 animals.append("dino")   # add one more item to the list using append() method
 print(animals)
-
-replace 'dino' with 'dinosaur'
+# elements added are always found at the end
+# hence, using the address -1 is a good idea
+animals[-1] = "dinosaur"
 print(animals)
